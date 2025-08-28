@@ -10,9 +10,6 @@ export default function Index() {
       <Text className="text-lg text-gray-600 mb-8">
         Welcome to your Todo application
       </Text>
-      <Link href="/login" className="bg-orange-500 px-6 py-3 rounded-lg">
-        <Text className="text-white font-semibold">Go to Login</Text>
-      </Link>
     </View>
   );
 }
